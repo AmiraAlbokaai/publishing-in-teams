@@ -1,10 +1,6 @@
 Capstone idea: Build an interactive dashboard that maps Middle East innovation clusters and tracks trends using web-scraped data and NLP; deliver insights for executive programmes and GEWs. [Amira Albokaai]
 
-git clone https://github.com/AmiraAlboaai/publishing-in-teams.git
-cd publishing-in-teams Sam Smoth
-
-# Open together.txt, add ONE new line with their idea + [Their Name]
-
-git add together.txt
-git commit -m "Add collaborator capstone idea"
-git push origin main
+# Instructions for collaborators:
+# 1) Each collaborator should add ONE new line with their capstone idea and their name in brackets, e.g.:
+#    Capstone idea: Forecast employee attrition with explainable ML to inform retention strategies. [Your Name]
+# 2) Save, commit, and push your change.
