@@ -4,3 +4,14 @@ Capstone idea: Build an interactive dashboard that maps Middle East innovation c
 # 1) Each collaborator should add ONE new line with their capstone idea and their name in brackets, e.g.:
 #    Capstone idea: Forecast employee attrition with explainable ML to inform retention strategies. [Your Name]
 # 2) Save, commit, and push your change.
+# Clone
+git clone https://github.com/<your-username>/publishing-in-teams.git
+cd publishing-in-teams
+
+# Edit
+# Open together.txt, add ONE new line with their idea + [Their Name]
+
+# Stage, commit, push
+git add together.txt
+git commit -m "Add collaborator capstone idea"
+git push origin main
