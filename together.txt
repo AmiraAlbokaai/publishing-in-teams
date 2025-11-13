@@ -1,3 +1,5 @@
 This will be a collaboration 
 
 Capstone idea: Develop a data-driven dashboard that tracks global executive education trends — analysing enrolment, delivery formats, and emerging skill themes (e.g., AI, sustainability, leadership) — to help business schools design more future-ready programmes. (Amira Albokaai)
+
+Capstone idea: Build an interactive “Innovation Ecosystem Map” that visualises partnerships between universities, startups, and corporations across the Middle East — using network analytics to highlight emerging innovation hubs and investment trends. (Sam Smoth)
