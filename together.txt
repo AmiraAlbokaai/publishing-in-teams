@@ -5,7 +5,7 @@ Capstone idea: Build an interactive dashboard that maps Middle East innovation c
 #    Capstone idea: Forecast employee attrition with explainable ML to inform retention strategies. [Your Name]
 # 2) Save, commit, and push your change.
 # Clone
-git clone https://github.com/<your-username>/publishing-in-teams.git
+git clone https://github.com/AmiraAlboaai/publishing-in-teams.git
 cd publishing-in-teams
 
 # Edit
