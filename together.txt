@@ -1,6 +1,3 @@
-Capstone idea: Build an interactive dashboard that maps Middle East innovation clusters and tracks trends using web-scraped data and NLP; deliver insights for executive programmes and GEWs. [Amira Albokaai]
+This will be a collaboration 
 
-# Instructions for collaborators:
-# 1) Each collaborator should add ONE new line with their capstone idea and their name in brackets, e.g.:
-#    Capstone idea: Forecast employee attrition with explainable ML to inform retention strategies. [Your Name]
-# 2) Save, commit, and push your change.
+Capstone idea: Develop a data-driven dashboard that tracks global executive education trends — analysing enrolment, delivery formats, and emerging skill themes (e.g., AI, sustainability, leadership) — to help business schools design more future-ready programmes. (Amira Albokaai)
