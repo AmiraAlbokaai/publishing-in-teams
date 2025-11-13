@@ -2,11 +2,11 @@ Capstone idea: Build an interactive dashboard that maps Middle East innovation c
 
 # Instructions for collaborators:
 # 1) Each collaborator should add ONE new line with their capstone idea and their name in brackets, e.g.:
-#    Capstone idea: Forecast employee attrition with explainable ML to inform retention strategies. [Your Name]
+#    Capstone idea: Forecast employee attrition with explainable ML to inform retention strategies. Amira Albokaai
 # 2) Save, commit, and push your change.
 # Clone
 git clone https://github.com/AmiraAlboaai/publishing-in-teams.git
-cd publishing-in-teams
+cd publishing-in-teams Sam Smoth
 
 # Edit
 # Open together.txt, add ONE new line with their idea + [Their Name]
